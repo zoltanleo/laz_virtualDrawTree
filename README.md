@@ -3,4 +3,7 @@
 Test project with various examples of using VirtualDrawTree
 
 0.0.1
-- add simple example 1 + russian artical
+- add simple example 1 (draw shapes) + russian artical (/01/)
+
+0.0.2
+- add simple example 2 (draw picture)

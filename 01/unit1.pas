@@ -100,8 +100,7 @@ begin
     vt.NodeHeight[Node] := iHeight;
 end;
 
-procedure TForm1.vtDrawNode(Sender: TBaseVirtualTree;
-  const PaintInfo: TVTPaintInfo);
+procedure TForm1.vtDrawNode(Sender: TBaseVirtualTree; const PaintInfo: TVTPaintInfo);
 var
   Data:PTreeItem;
   r: TRect;
