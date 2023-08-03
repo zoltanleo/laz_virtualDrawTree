@@ -59,11 +59,7 @@
         <UsageCount Value="10"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="9">
-      <Position>
-        <Filename Value="unit1.pas"/>
-        <Caret TopLine="5"/>
-      </Position>
+    <JumpHistory HistoryIndex="8">
       <Position>
         <Filename Value="unit1.pas"/>
         <Caret Line="16" Column="3" TopLine="16"/>
